@@ -1,0 +1,28 @@
+name: HYIP BTC Scammers
+favicon: null
+layout_spectrum: 0.9309212404768914
+typography_spectrum: 0.38393019000068307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4489478275645524
+  lightness: 0.5675988737493753
+  saturation: 0.8872438974212855
+  rhythmicContrast: 0.04915564088150859
+purpose: []

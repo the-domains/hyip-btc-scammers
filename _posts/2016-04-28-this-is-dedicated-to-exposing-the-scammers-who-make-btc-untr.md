@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: This is dedicated to exposing the scammers who make BTC untrustworthy...
-datePublished: '2016-04-28T04:31:50.353Z'
-dateModified: '2016-04-28T04:31:30.579Z'
+description: This is dedicated to exposing the scammers who make BTC untrustworthy... and apparently perfect money...
+datePublished: '2016-04-28T21:49:10.039Z'
+dateModified: '2016-04-28T21:49:09.215Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-this-is-dedicated-to-exposing-the-scammers-who-make-btc-untr.md
@@ -22,7 +22,7 @@ url: this-is-dedicated-to-exposing-the-scammers-who-make-btc-untr/index.html
 _type: Article
 
 ---
-This is dedicated to exposing the scammers who make BTC untrustworthy...
+This is dedicated to exposing the scammers who make BTC untrustworthy... and apparently perfect money...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff716db3-4c2a-465e-9587-fd69474244c7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4965520-9aa4-46ca-9d78-0f3cf4e6fd76.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c57c2120-6e17-4780-9b5f-228b31ae6f57.png)
